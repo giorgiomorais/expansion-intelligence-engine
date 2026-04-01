@@ -1,6 +1,7 @@
 # previsao_vendas
 Modelo de previsão de venda para expansões em regiões sem exploração
 
+![Dashboard Preview](img/Tela_01_script.png)
 # 🚀 Expansion Intelligence Engine: Framework Preditivo para Setup de Estoque
 
 Este projeto apresenta um **Framework de Business Intelligence e Ciência de Dados** voltado para a otimização de expansões comerciais e abertura de novas filiais/Centros de Distribuição (CDs). O objetivo central é eliminar o "achismo" no setup inicial de estoque, garantindo disponibilidade de produto sem comprometer o fluxo de caixa.
